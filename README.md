@@ -2,9 +2,9 @@
 
 This application is a simple calculator which performs various mathematical operations, such as addition, subtraction, multiplication, and division. The app is designed and developed with Kotlin for the back-end and XML for the front-end on the Android platform.
 
-<img src="https://github.com/rajkishorbgp/my-personal-data-/blob/main/AndroidProjects/Calculator%20App/app%20ic.jpg" alt="app icon" width="300" height="650">
+<img src="https://github.com/rajkishorbgp/my-personal-data-/blob/main/AndroidProjects/Calculator%20App/app%20ic.jpg"  alt="app icon" width="300" height="650">
 
-<img src="https://github.com/rajkishorbgp/my-personal-data-/blob/main/AndroidProjects/Calculator%20App/1.jpg" alt="app icon" width="300" height="650">
+<img src="https://github.com/rajkishorbgp/my-personal-data-/blob/main/AndroidProjects/Calculator%20App/1.jpg" alt="app icon" width="300" align="right" height="650">
 
 <img src="https://github.com/rajkishorbgp/my-personal-data-/blob/main/AndroidProjects/Calculator%20App/2.jpg" alt="app icon" width="300" height="650">
 
