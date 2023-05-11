@@ -4,9 +4,9 @@ This application is a simple calculator which performs various mathematical oper
 
 <img src="https://github.com/rajkishorbgp/my-personal-data-/blob/main/AndroidProjects/Calculator%20App/app%20ic.jpg" alt="app icon" width="300" height="650">
 
-## ![calculate 1](https://github.com/rajkishorbgp/my-personal-data-/blob/main/AndroidProjects/Calculator%20App/1.jpg)
+<img src="https://github.com/rajkishorbgp/my-personal-data-/blob/main/AndroidProjects/Calculator%20App/1.jpg" alt="app icon" width="300" height="650">
 
-## ![calculate 2](https://github.com/rajkishorbgp/my-personal-data-/blob/main/AndroidProjects/Calculator%20App/2.jpg)
+<img src="https://github.com/rajkishorbgp/my-personal-data-/blob/main/AndroidProjects/Calculator%20App/2.jpg" alt="app icon" width="300" height="650">
 
 ## Features
 
