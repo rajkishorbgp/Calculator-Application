@@ -6,8 +6,6 @@ This application is a simple calculator which performs various mathematical oper
 
 <img src="https://github.com/rajkishorbgp/my-personal-data-/blob/main/AndroidProjects/Calculator%20App/2.jpg" alt="app icon" width="300" align="right" height="650">
 
-<img src="" alt="app icon" width="300" height="650">
-
 ## Features
 
 The Calculator App comes with the following features:
